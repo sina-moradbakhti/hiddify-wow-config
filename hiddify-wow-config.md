@@ -1,4 +1,6 @@
 # hiddify-wow-config
+### How to make free Warp on Warp config and use it on Hiddify to connect to the free world wide network.
+
 
 # Warp on Warp
 
@@ -30,3 +32,5 @@ Use steps of the previous section, but:
  ## Credits
  
  [Yonggekkk](https://github.com/yonggekkk/warp-yg) for the windows warp IP scanner
+
+ #### If this method worked well on you, you can buy me a coffe via the following link, if you'd like, https://www.coffeebede.com/UserDashboardV2/Profile
