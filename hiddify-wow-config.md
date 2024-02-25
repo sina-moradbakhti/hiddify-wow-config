@@ -13,7 +13,7 @@
 1. Copy the [Config file](WoW/WarpOnWarp-HiddifyNext.json) to an editor.
 2. Run the below command in the termux(Android Shell), linux or mac to acquire best working IP/Ports of the Cloudflare Warp. After running select option 1.
 ```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && ./endip.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh)
 ```
 3. Replace the two IP/Ports of the copied config file (Step 1) with one of the resulted IP/Port of the step 2.
 4. Run the below instruction two times to acquire two free Warp accounts. Each time you run it, writes 3 lines including IPv6, private key and reserved bytes. You can replace the corresponding values of the copied config (Step 1) with these values.
